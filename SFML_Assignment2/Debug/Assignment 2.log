@@ -1,0 +1,90 @@
+﻿Build started 4/20/2015 7:23:50 AM.
+     1>Project "C:\Users\user\Downloads\SFML_Assignment2\Assignment 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Zahra\Documents\SFML-2.1\include" /I"C:\Users\Zahra\Desktop\SFML_Assignment2-2015-04-10\SFML_Assignment2\Include" /IC:\Users\user\Downloads\SFML_Assignment2\Include /I"C:\Users\socer_000\Downloads\SFML_Assignment2-2015-04-10\SFML_Assignment2\Include" /I"C:\Users\user\Desktop\SFML\SFML-2.1\include" /I"C:\Users\Ryan\Desktop\SFML_Assignment2-2015-04-10\SFML_Assignment2\Include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\2.cpp Source\3.cpp source\Aircraft.cpp source\Animation.cpp source\Application.cpp source\BloomEffect.cpp source\Button.cpp source\Command.cpp source\CommandQueue.cpp source\Component.cpp source\Container.cpp source\DataTables.cpp source\EmitterNode.cpp source\Entity.cpp source\GameOverState.cpp source\GameState.cpp source\Label.cpp source\Main.cpp source\MenuState.cpp source\MusicPlayer.cpp source\ParticleNode.cpp source\PauseState.cpp source\Pickup.cpp source\Player.cpp source\PostEffect.cpp source\Projectile.cpp source\SceneNode.cpp source\SettingsState.cpp source\SoundNode.cpp source\SoundPlayer.cpp source\SpriteNode.cpp source\State.cpp source\StateStack.cpp source\TextNode.cpp source\TitleState.cpp source\Utility.cpp source\World.cpp
+         World.cpp
+         Utility.cpp
+         TitleState.cpp
+         TextNode.cpp
+         StateStack.cpp
+         State.cpp
+         SpriteNode.cpp
+         SoundPlayer.cpp
+         SoundNode.cpp
+         SettingsState.cpp
+         SceneNode.cpp
+         Projectile.cpp
+         PostEffect.cpp
+         Player.cpp
+     1>source\Player.cpp(256): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+         Pickup.cpp
+         PauseState.cpp
+         ParticleNode.cpp
+         MusicPlayer.cpp
+         MenuState.cpp
+         Main.cpp
+         Generating Code...
+         Compiling...
+         Label.cpp
+         GameState.cpp
+         GameOverState.cpp
+         Entity.cpp
+         EmitterNode.cpp
+         DataTables.cpp
+         Container.cpp
+         Component.cpp
+         CommandQueue.cpp
+         Command.cpp
+         Button.cpp
+         BloomEffect.cpp
+         Application.cpp
+         Animation.cpp
+         Aircraft.cpp
+         3.cpp
+         2.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Downloads\SFML_Assignment2\Debug\Assignment 2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Zahra\Documents\SFML-2.1\lib" /LIBPATH:"C:\Users\user\Desktop\SFML\SFML-2.1\lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Downloads\SFML_Assignment2\Debug\Assignment 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Downloads\SFML_Assignment2\Debug\Assignment 2.lib" /MACHINE:X86 Debug\2.obj
+         Debug\3.obj
+         Debug\Aircraft.obj
+         Debug\Animation.obj
+         Debug\Application.obj
+         Debug\BloomEffect.obj
+         Debug\Button.obj
+         Debug\Command.obj
+         Debug\CommandQueue.obj
+         Debug\Component.obj
+         Debug\Container.obj
+         Debug\DataTables.obj
+         Debug\EmitterNode.obj
+         Debug\Entity.obj
+         Debug\GameOverState.obj
+         Debug\GameState.obj
+         Debug\Label.obj
+         Debug\Main.obj
+         Debug\MenuState.obj
+         Debug\MusicPlayer.obj
+         Debug\ParticleNode.obj
+         Debug\PauseState.obj
+         Debug\Pickup.obj
+         Debug\Player.obj
+         Debug\PostEffect.obj
+         Debug\Projectile.obj
+         Debug\SceneNode.obj
+         Debug\SettingsState.obj
+         Debug\SoundNode.obj
+         Debug\SoundPlayer.obj
+         Debug\SpriteNode.obj
+         Debug\State.obj
+         Debug\StateStack.obj
+         Debug\TextNode.obj
+         Debug\TitleState.obj
+         Debug\Utility.obj
+         Debug\World.obj
+         LINK : C:\Users\user\Downloads\SFML_Assignment2\Debug\Assignment 2.exe not found or not built by the last incremental link; performing full link
+         Assignment 2.vcxproj -> C:\Users\user\Downloads\SFML_Assignment2\Debug\Assignment 2.exe
+     1>Done Building Project "C:\Users\user\Downloads\SFML_Assignment2\Assignment 2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.18
